@@ -23,6 +23,13 @@ The development of a blockchain-based eVault system for legal records can have a
 ## Why Hyperledger Fabric?
 Hyperledger stands out due to its modular architecture, providng greater flexibility and customisation options. It incorparates security features such as permissioned access, encryption, and authentication mechanisms. It allows you to create a private and permissioned blockchain network which is beneficial for legal records, as it enables fine-grained control over who can participate and access data.
 
+The Linux Foundaton hosts this global collaboration, which comprises professionals in finance, banking, the IOT, supply chains, manufacturing and technology.  
+
+![alt text](https://hyperledger-fabric.readthedocs.io/en/release-2.5/_images/hyperledger_fabric_logo_color.png)
+
+
+
+![goalsofhyperledger](https://github.com/Team-Tanzanite-KMIT/project-info-docs/assets/138752385/7c70a722-3601-4eef-a321-d05d03452adf)
 
 Strengths:
 1. Permissioned network design suitable for private legal records
@@ -40,4 +47,41 @@ Considerations:
 • May have a steeper learning curve for newcomers.
 
 
+
 Chaincode in Hyperledger is used for smart contracts that defines the logic of decentralised applications running on it. 
+
+
+Layers of HyperLedger:
+
+![layersofhyperledger](https://github.com/Team-Tanzanite-KMIT/project-info-docs/assets/138752385/341f31f0-3334-4a5d-a9ad-d01dcfa34401)
+
+
+
+
+Organizational structure of hyperledger technology:
+
+
+API (Application
+Programming Interface ), SDK(Software Development Kit) , CLI(Command
+Line Interface)
+
+
+API includes
+membership services such as a set of cryptographic certificates,
+signifies that peer belongs to the same organisation and
+communication between peers f same membership services.
+
+
+SDK includes
+blockchain and transaction layer which constitutes the core code of
+the blockchain, consist of consensus algorithm and peer-to-peer
+protocol.
+
+
+CLI includes
+membership services which consists of chaincode and logic to run in
+operaton on the hyperledger.
+
+
+
+How Hyperledger works?
