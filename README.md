@@ -17,6 +17,11 @@ A detailed design document outlining the architecture, features, and technical s
 ## Impact: 
 The development of a blockchain-based eVault system for legal records can have a significant impact on improving access to justice in India. It can lead to faster, more efficient court proceedings, reduced costs, and increased trust in the justice system. Moreover, it can provide a secure and transparent platform for storing and sharing legal records, making it easier for clients to access their own records and for lawyers to access relevant case information.
 
+## PROJECT
+UI file:
+[Click me](https://www.figma.com/file/Spmi4HuCpkWGHYp3uqR7LU/Workflow?type=whiteboard&node-id=0%3A1&t=Kak22lYKaQsy21cl-1)
+
+
 
 ## Why Hyperledger Fabric?
 Hyperledger stands out due to its modular architecture, providng greater flexibility and customisation options. It incorparates security features such as permissioned access, encryption, and authentication mechanisms. It allows you to create a private and permissioned blockchain network which is beneficial for legal records, as it enables fine-grained control over who can participate and access data.
