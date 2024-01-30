@@ -22,6 +22,7 @@ UI file:
 [Click me](https://www.figma.com/file/Spmi4HuCpkWGHYp3uqR7LU/Workflow?type=whiteboard&node-id=0%3A1&t=Kak22lYKaQsy21cl-1)
 
 
+WorkFlow Progress:
 
 ## Why Hyperledger Fabric?
 Hyperledger stands out due to its modular architecture, providng greater flexibility and customisation options. It incorparates security features such as permissioned access, encryption, and authentication mechanisms. It allows you to create a private and permissioned blockchain network which is beneficial for legal records, as it enables fine-grained control over who can participate and access data.
